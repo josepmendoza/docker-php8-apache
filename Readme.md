@@ -12,3 +12,5 @@ It's only a php-apache official build with extensions added, configuration tweak
 ## Configuration tweaks
  - upload_max_filesize = 16M
  - post_max_size = 16M
+## Environment
+ - TZ: Timezone string (defaults to UTC).
