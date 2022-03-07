@@ -1,5 +1,5 @@
 # PHP APACHE docker Image
-It's only a php-apache official build with extensions added, configuration tweaks and php.ini-production enabled.
+It's only a php8-apache official build with extensions added, configuration tweaks and php.ini-production enabled.
 ## Extensions added
  - mysqli
  - imap
